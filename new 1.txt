@@ -1,0 +1,11 @@
+sudo docker ps
+
+<CONTAINER ID>
+
+sudo docker exec -it <CONTAINER ID> /bin/bash
+
+pip install flask
+pip install requests
+
+
+
